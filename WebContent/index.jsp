@@ -14,7 +14,7 @@ body {
 	<br>
 	<div style="text-align:center">
 		<h2>
-			Questa è la pagina index.<br> <br>
+			Questa è la pagina index. bootstrap<br> <br>
 		</h2>
 		<h3>
 			<a href="welcome.html">Clicca qui per vedere la pagina di welcome </a>(to
