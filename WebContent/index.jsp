@@ -14,11 +14,11 @@ body {
 	<br>
 	<div style="text-align:center">
 		<h2>
-			Hey You..!! This is your 1st Spring MCV Tutorial..<br> <br>
+			Questa è la pagina index.<br> <br>
 		</h2>
 		<h3>
-			<a href="welcome.html">Click here to See Welcome Message... </a>(to
-			check Spring MVC Controller... @RequestMapping("/welcome"))
+			<a href="welcome.html">Clicca qui per vedere la pagina di welcome </a>(to
+			controller: ... @RequestMapping("/welcome"))
 		</h3>
 	</div>
 </body>
