@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>Studio Legale Muni</title>
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -46,7 +46,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+<!--                 <i class="fa fa-4x fa-balance-scale wow bounceIn text-primary"></i> -->
+                <a class="navbar-brand page-scroll" href="#page-top">Copyright © 2020 Studio Legale Muni</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -59,7 +60,7 @@
                         <a class="page-scroll" href="#services">Services</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="#portfolio">Staff</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -90,7 +91,7 @@
                     <hr class="light">
                     <p class="text-faded">Per questo motivo nella nostra opera, pur nell'ambito della necessaria autonomia che caratterizza la prestazione dell'Avvocato, abbiamo sempre un particolare riguardo per l'ottica dei nostri Assistiti e per l'importanza che rivestono le esigenze delle persone che ci concedono la loro fiducia.
 La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzione al dialogo ed al rapporto di chiarezza con il Cliente, mediante l'opera di un avvocato specializzato, che cerca in primo luogo di spiegare le situazioni che molto spesso rappresentano un intricato problema, del quale solo il legale conosce l'effettiva essenza.</p>
-                    <a href="#" class="btn btn-default btn-xl">Get Started!</a>
+                    <a href="#" class="btn btn-default btn-xl">Get Started</a>
                 </div>
             </div>
         </div>
@@ -107,32 +108,39 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
         </div>
         <div class="container">
            <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-2 col-md-2 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
+                        <i class="fa fa-4x fa-suitcase wow bounceIn text-primary"></i>
                         <h3>Diritto Commerciale</h3>
                         <p class="text-muted">Consulenza ed assistenza legale per aziende di piccola e media dimensione per la redazione di contratti in genere, controversie tra soci, controversie con fornitori e clienti, assitenza in gare e appalti, consulenza ed assitenza fiscale dinanzi ai competenti organi giudiziari.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-2 col-md-2 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <i class="fa fa-4x fa-money wow bounceIn text-primary" data-wow-delay=".1s"></i>
                         <h3>Diritto Bancario</h3>
                         <p class="text-muted">Consulenza ed assistenza legale per Istituti bancari, servicer e spv per procedure esecutive, concorsuali e due diligence legale ed immobiliare.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-4 col-md-4 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <i class="fa fa-4x fa-h-square wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Diritto Sanitario </h3>
                         <p class="text-muted">Consulenza ed assitenza legale per Aziende Sanitarie Locali, Ospedali pubblici, Associazioni nazionali di settore, Operatori privati nel settore sanitario, Laboratori di Analisi, Cliniche private per lo svolgimento di attività giudiziale, redazione di contratti di appalto e fornitura, consulenza nel settore dei crediti, operazioni di cessione pro soluto e pro solvendo. Lo studio opera attraverso la società collegata Capitalis srl nel settore della consulenza finanziaria e strategica per conto di operatori privati del settore sanitario al fine di realizzare migliori performance di risultato anche attraverso operazioni di cessione di crediti.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
+                <div class="col-lg-2 col-md-2 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                        <i class="fa fa-4x fa-ship wow bounceIn text-primary" data-wow-delay=".3s"></i>
                         <h3>Diritto Doganale</h3>
                         <p class="text-muted">Consulenza ed assistenza legale per aziende operanti nel settore del deposito franco e doganale e del commercio estero, per spedizionieri doganali per la risoluzioni di controversie internazionali, controversie con fornitori e clienti, rapporti con le Autorità doganali ed Autorità giudiziali in materia di custodie giudiziali ed amministrative.</p>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-2 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-institution wow bounceIn text-primary" data-wow-delay=".4s"></i>
+                        <h3>Diritto Amministrativo</h3>
+                        <p class="text-muted">Consulenza ed assistenza legale per conto di pubbliche amministrazioni e privati in metaria edilizia.</p>
                     </div>
                 </div>
             </div>
@@ -148,10 +156,10 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Socio
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Avv. Ignazio Muni
                                 </div>
                             </div>
                         </div>
@@ -163,10 +171,10 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Socio
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Avv. Massimiliano Muni
                                 </div>
                             </div>
                         </div>
@@ -178,10 +186,10 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Socio
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Avv. Gabriella Muni
                                 </div>
                             </div>
                         </div>
@@ -193,10 +201,10 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Collaboratore
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Avv. Pasquale Correale
                                 </div>
                             </div>
                         </div>
@@ -208,30 +216,30 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Collaboratore
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Dott. Francesco Pierri
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
+<!--                 <div class="col-lg-4 col-sm-6"> -->
+<!--                     <a href="#" class="portfolio-box"> -->
+<!--                         <img src="img/portfolio/6.jpg" class="img-responsive" alt=""> -->
+<!--                         <div class="portfolio-box-caption"> -->
+<!--                             <div class="portfolio-box-caption-content"> -->
+<!--                                 <div class="project-category text-faded"> -->
+<!--                                     Category -->
+<!--                                 </div> -->
+<!--                                 <div class="project-name"> -->
+<!--                                     Project Name -->
+<!--                                 </div> -->
+<!--                             </div> -->
+<!--                         </div> -->
+<!--                     </a> -->
+<!--                 </div> -->
             </div>
         </div>
     </section>
@@ -239,8 +247,8 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
     <aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a>
+                <h2>Scarica il PDF con la nostra brochure:</h2>
+                <a href="resource/pieghevole.pdf" class="btn btn-default btn-xl wow tada">Download</a>
             </div>
         </div>
     </aside>
@@ -262,15 +270,15 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:your-email@your-domain.com">infoline@studiolegalemuni.it</a></p>
                 </div>
-                <div style="text-align:center">
-					<h2>
-						Questa è la pagina index. bootstrap<br> <br>
-					</h2>
-					<h3>
-						<a href="welcome.html">Clicca qui per vedere la pagina di welcome </a>(to
-						controller: ... @RequestMapping("/welcome"))
-					</h3>
-				</div>
+<!--                 <div style="text-align:center"> -->
+<!-- 					<h2> -->
+<!-- 						Questa è la pagina index. bootstrap<br> <br> -->
+<!-- 					</h2> -->
+<!-- 					<h3> -->
+<!-- 						<a href="welcome.html">Clicca qui per vedere la pagina di welcome </a>(to -->
+<!-- 						controller: ... @RequestMapping("/welcome")) -->
+<!-- 					</h3> -->
+<!-- 				</div> -->
             </div>
         </div>
     </section>
