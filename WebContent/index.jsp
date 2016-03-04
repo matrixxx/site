@@ -47,7 +47,7 @@
                     <span class="icon-bar"></span>
                 </button>
 <!--                 <i class="fa fa-4x fa-balance-scale wow bounceIn text-primary"></i> -->
-                <a class="navbar-brand page-scroll" href="#page-top">Copyright © 2020 Studio Legale Muni</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Copyright &copy; 2020 Studio Legale Muni</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -77,7 +77,7 @@
             <div class="header-content-inner">
                 <h1>Studio Legale Muni</h1>
                 <hr>
-                <p>Lo Studio Legale Muni è composto da un gruppo di avvocati penalisti e civilisti, che da anni operano a Napoli ed a Roma oltre che su tutto il territorio nazionale, prestando assistenza e consulenza legale per ogni questione giuridica.</p>
+                <p>Lo Studio Legale Muni &eacute composto da un gruppo di avvocati penalisti e civilisti, che da anni operano a Napoli ed a Roma oltre che su tutto il territorio nazionale, prestando assistenza e consulenza legale per ogni questione giuridica.</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -90,7 +90,7 @@
                     <h2 class="section-heading">Chi si rivolge ad un avvocato per un problema di natura penale, civile o di altro genere, molto spesso si trova in una situazione difficile, di estrema importanza per se', per la propria famiglia, per l'economia complessiva della propria vita.</h2>
                     <hr class="light">
                     <p class="text-faded">Per questo motivo nella nostra opera, pur nell'ambito della necessaria autonomia che caratterizza la prestazione dell'Avvocato, abbiamo sempre un particolare riguardo per l'ottica dei nostri Assistiti e per l'importanza che rivestono le esigenze delle persone che ci concedono la loro fiducia.
-La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzione al dialogo ed al rapporto di chiarezza con il Cliente, mediante l'opera di un avvocato specializzato, che cerca in primo luogo di spiegare le situazioni che molto spesso rappresentano un intricato problema, del quale solo il legale conosce l'effettiva essenza.</p>
+La nostra attivit&aacute, sia giudiziale che stragiudiziale, pone particolare attenzione al dialogo ed al rapporto di chiarezza con il Cliente, mediante l'opera di un avvocato specializzato, che cerca in primo luogo di spiegare le situazioni che molto spesso rappresentano un intricato problema, del quale solo il legale conosce l'effettiva essenza.</p>
                     <a href="#" class="btn btn-default btn-xl">Get Started</a>
                 </div>
             </div>
@@ -126,14 +126,14 @@ La nostra attività, sia giudiziale che stragiudiziale, pone particolare attenzio
                     <div class="service-box">
                         <i class="fa fa-4x fa-h-square wow bounceIn text-primary" data-wow-delay=".2s"></i>
                         <h3>Diritto Sanitario </h3>
-                        <p class="text-muted">Consulenza ed assitenza legale per Aziende Sanitarie Locali, Ospedali pubblici, Associazioni nazionali di settore, Operatori privati nel settore sanitario, Laboratori di Analisi, Cliniche private per lo svolgimento di attività giudiziale, redazione di contratti di appalto e fornitura, consulenza nel settore dei crediti, operazioni di cessione pro soluto e pro solvendo. Lo studio opera attraverso la società collegata Capitalis srl nel settore della consulenza finanziaria e strategica per conto di operatori privati del settore sanitario al fine di realizzare migliori performance di risultato anche attraverso operazioni di cessione di crediti.</p>
+                        <p class="text-muted">Consulenza ed assitenza legale per Aziende Sanitarie Locali, Ospedali pubblici, Associazioni nazionali di settore, Operatori privati nel settore sanitario, Laboratori di Analisi, Cliniche private per lo svolgimento di attivit&aacute giudiziale, redazione di contratti di appalto e fornitura, consulenza nel settore dei crediti, operazioni di cessione pro soluto e pro solvendo. Lo studio opera attraverso la societ&aacute collegata Capitalis srl nel settore della consulenza finanziaria e strategica per conto di operatori privati del settore sanitario al fine di realizzare migliori performance di risultato anche attraverso operazioni di cessione di crediti.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-2 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-ship wow bounceIn text-primary" data-wow-delay=".3s"></i>
                         <h3>Diritto Doganale</h3>
-                        <p class="text-muted">Consulenza ed assistenza legale per aziende operanti nel settore del deposito franco e doganale e del commercio estero, per spedizionieri doganali per la risoluzioni di controversie internazionali, controversie con fornitori e clienti, rapporti con le Autorità doganali ed Autorità giudiziali in materia di custodie giudiziali ed amministrative.</p>
+                        <p class="text-muted">Consulenza ed assistenza legale per aziende operanti nel settore del deposito franco e doganale e del commercio estero, per spedizionieri doganali per la risoluzioni di controversie internazionali, controversie con fornitori e clienti, rapporti con le Autorit&aacute doganali ed Autorit&aacute giudiziali in materia di custodie giudiziali ed amministrative.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-2 text-center">
