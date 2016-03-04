@@ -268,7 +268,7 @@ La nostra attivit&aacute, sia giudiziale che stragiudiziale, pone particolare at
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:your-email@your-domain.com">infoline@studiolegalemuni.it</a></p>
+                    <p><a href="mailto:your-email@your-domain.com">infoline@StudioLegaleAdminmuni.it</a></p>
                 </div>
 <!--                 <div style="text-align:center"> -->
 <!-- 					<h2> -->
