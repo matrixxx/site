@@ -14,13 +14,13 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>StudioLegale</servlet-name>
-        <url-pattern>/welcome.jsp</url-pattern>
-        <url-pattern>/welcome.html</url-pattern>
-         <url-pattern>/login.jsp</url-pattern> 
-        <url-pattern>/login.html</url-pattern>
-         <url-pattern>/dashboard.jsp</url-pattern> 
-        <url-pattern>/dashboard.html</url-pattern>
-<!--         <url-pattern>*.html</url-pattern> -->
+<!--         <url-pattern>/welcome.jsp</url-pattern> -->
+<!--         <url-pattern>/welcome.html</url-pattern> -->
+<!--          <url-pattern>/login.jsp</url-pattern>  -->
+<!--         <url-pattern>/login.html</url-pattern> -->
+<!--          <url-pattern>/dashboard.jsp</url-pattern>  -->
+<!--         <url-pattern>/dashboard.html</url-pattern> -->
+        <url-pattern>*.html</url-pattern>
 <!--          <url-pattern>*.jsp</url-pattern> -->
 		
     </servlet-mapping>
