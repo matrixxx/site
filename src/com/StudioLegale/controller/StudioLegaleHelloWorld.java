@@ -9,6 +9,7 @@ import org.springframework.web.servlet.ModelAndView;
  * 
  */
  
+
 @Controller
 public class StudioLegaleHelloWorld {
  
@@ -16,7 +17,25 @@ public class StudioLegaleHelloWorld {
 	public ModelAndView helloWorld() {
  
 		String message = "<br><div style='text-align:center;'>"
-				+ "<h3>********** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
+				+ "<h3>*****welcome controller***** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
 		return new ModelAndView("welcome", "message", message);
+	}
+
+
+
+	@RequestMapping("/login")
+	public ModelAndView login() {
+ 
+		String message = "<br><div style='text-align:center;'>"
+				+ "<h3>*****login Controller***** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
+		return new ModelAndView("login", "message", message);
+	}
+	
+	@RequestMapping("/dashboard")
+	public ModelAndView dashboard() {
+ 
+		String message = "<br><div style='text-align:center;'>"
+				+ "<h3>*****login Controller***** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
+		return new ModelAndView("dashboard", "message", message);
 	}
 }
