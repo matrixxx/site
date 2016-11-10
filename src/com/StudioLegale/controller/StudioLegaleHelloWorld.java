@@ -26,7 +26,7 @@ public class StudioLegaleHelloWorld {
 
 	@RequestMapping("/index")
 	public ModelAndView index() {
-		System.out.println("INDEXXXXXXXXXXXXXXXXXXX \n");
+		System.out.println("INDEXXXXXXXXXXXXXXXXXXX2 \n");
 //		String message = "<br><div style='text-align:center;'>"
 //				+ "<h3>*****welcome controller***** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
 		return new ModelAndView("index");
@@ -80,7 +80,7 @@ public class StudioLegaleHelloWorld {
 //	System.out.println(response.getStatus());
 //	System.out.println(employee);
 //	}
-	
+	//FUNZIONA !!!!!!!!!
 	@RequestMapping("/dashboard_2")
 	private static void savePayment2() {
 		Client client = Client.create();
