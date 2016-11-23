@@ -40,7 +40,7 @@
                 <div class="row  border-bottom white-bg dashboard-header">
 
                     <div class="col-sm-3">
-                        <h2><spring:message code="dashboard.welcome"/></h2>
+                        <h2><spring:message code="dashboard.welcome"/><strong class="font-bold">YYYY:${output}</strong></h2>
                         <small>You have 42 messages and 6 notifications.</small>
                         <ul class="list-group clear-list m-t">
                             <li class="list-group-item fist-item">

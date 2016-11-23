@@ -82,7 +82,7 @@ public class StudioLegaleHelloWorld {
 //	}
 	//FUNZIONA !!!!!!!!!
 	@RequestMapping("/dashboard_2")
-	private static void savePayment2() {
+	public ModelAndView savePayment2() {
 		Client client = Client.create();
 
 		WebResource webResource = client
@@ -98,14 +98,24 @@ public class StudioLegaleHelloWorld {
 
 		String output = response.getEntity(String.class);
 
-		System.out.println("Output from Server .... \n");
+		System.out.println("Output from Server .... :");
 		System.out.println(output);
+		
+		// ritorna la dashboard.jsp che stampa la variabile output che viene dal servizio rest
+		ModelAndView modelAndView = new ModelAndView("dashboard");
+		if(output!=null){
+			modelAndView.addObject("output", output);
+		}
 		
 //		String message = "<br><div style='text-align:center;'>"
 //				+ "<h3>*****login Controller***** Ciao:</h3>Questo messaggio viene dal Controller della classe StudioLegaleHelloWorld.java **********</div><br><br>";
 //		return new ModelAndView("dashboard", "message", message);
 		
-		
+		return modelAndView;
 	}
+	
+	
+	
+
 	
 }
